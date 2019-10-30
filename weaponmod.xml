@@ -26,6 +26,8 @@
 	
 	<WeaponMod id="wpn_fps_ass_ak_stamp_762_lhg_akm"   based_on="wpn_fps_ass_flint_body_upperreceiver" type="handguard_lower" 				 unit="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akm_pts/wpn_fps_ass_ak_stamp_762_lhg_akm"   texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
 	
+	<WeaponMod id="wpn_fps_ass_ak_stamp_762_mr_akm"    based_on="wpn_fps_ass_flint_body_upperreceiver" type="magazine_release" 				 unit="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akm_pts/wpn_fps_ass_ak_stamp_762_mr_akm"    texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	
 	<WeaponMod id="wpn_fps_ass_ak_stamp_762_pg_akm"    based_on="wpn_fps_ass_flint_body_upperreceiver" type="pistol_grip" 					 unit="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akm_pts/wpn_fps_ass_ak_stamp_762_pg_akm"    texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
 	
 	<WeaponMod id="wpn_fps_ass_ak_stamp_762_rcs_akm"   based_on="wpn_fps_ass_flint_body_upperreceiver" type="recoil_spring" 				 unit="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akm_pts/wpn_fps_ass_ak_stamp_762_rcs_akm"   texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
@@ -49,5 +51,13 @@
 	<WeaponMod id="wpn_fps_ass_ak_stamp_762_uhg_akm"   based_on="wpn_fps_ass_flint_body_upperreceiver" type="handguard_upper"				 unit="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akm_pts/wpn_fps_ass_ak_stamp_762_uhg_akm"   texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
 	
 	<WeaponMod id="wpn_fps_ass_ak_stamp_762_urhgr_akm" based_on="wpn_fps_ass_flint_body_upperreceiver" type="handguard_retainer_upper_rear"  unit="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akm_pts/wpn_fps_ass_ak_stamp_762_urhgr_akm" texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	
+	<WeaponMod id="wpn_fps_ass_ak_stamp_762_bo_akm"    based_on="wpn_fps_ass_flint_dh_standard"		   type="bolt"							 unit="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akm_pts/wpn_fps_ass_ak_stamp_762_bo_akm"	   texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	
+	<WeaponMod id="wpn_fps_ass_ak_stamp_762_md_akm"    based_on="wpn_fps_upg_ass_ns_battle"			   type="barrel_ext"					 unit="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akm_pts/wpn_fps_ass_ak_stamp_762_md_akm"	   texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	
+	<!-- MAGAZINES -->
+	
+	<WeaponMod id="wpn_fps_ass_ak_stamp_762_m_steel_30" based_on="wpn_fps_ass_flint_m_standard" type="magazine" unit="units/mods/weapons/wpn_fps_ass_ak_stamp_762_mag_pts/wpn_fps_ass_ak_stamp_762_m_steel_30" texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
 	
 </table>

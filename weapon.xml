@@ -34,7 +34,7 @@
 			<default_blueprint>
 			
 				<value_node value="wpn_fps_ass_ak_stamp_762_ba_akm"/>
-				<!-- <value_node value="wpn_fps_ass_ak_stamp_762_bo_akm"/> -->
+				<value_node value="wpn_fps_ass_ak_stamp_762_bo_akm"/>
 				<value_node value="wpn_fps_ass_ak_stamp_762_clr_akm"/>
 				<value_node value="wpn_fps_ass_ak_stamp_762_dc_akm"/>
 				<value_node value="wpn_fps_ass_ak_stamp_762_fsl_akm"/>
@@ -46,8 +46,8 @@
 				<value_node value="wpn_fps_ass_ak_stamp_762_hm_akm"/>
 				<value_node value="wpn_fps_ass_ak_stamp_762_lhg_akm"/>
 				<value_node value="wpn_fps_ass_ak_stamp_762_uhg_akm"/>
-				<!-- <value_node value="wpn_fps_ass_ak_stamp_762_mr_akm"/> -->
-				<!-- <value_node value="wpn_fps_ass_ak_stamp_762_md_akm"/> -->
+				<value_node value="wpn_fps_ass_ak_stamp_762_mr_akm"/>
+				<value_node value="wpn_fps_ass_ak_stamp_762_md_akm"/>
 				<value_node value="wpn_fps_ass_ak_stamp_762_pg_akm"/>
 				<value_node value="wpn_fps_ass_ak_stamp_762_fs_akm"/>
 				<value_node value="wpn_fps_ass_ak_stamp_762_rs_akm"/>
@@ -61,12 +61,14 @@
 				<value_node value="wpn_fps_ass_ak_stamp_762_ftru_akm"/>
 				<value_node value="wpn_fps_ass_ak_stamp_762_rtru_akm"/>
 				
+				<value_node value="wpn_fps_ass_ak_stamp_762_m_steel_30"/>
+				
 			</default_blueprint>
 
 			<uses_parts>
 			
 				<value_node value="wpn_fps_ass_ak_stamp_762_ba_akm"/>
-				<!-- <value_node value="wpn_fps_ass_ak_stamp_762_bo_akm"/> -->
+				<value_node value="wpn_fps_ass_ak_stamp_762_bo_akm"/>
 				<value_node value="wpn_fps_ass_ak_stamp_762_clr_akm"/>
 				<value_node value="wpn_fps_ass_ak_stamp_762_dc_akm"/>
 				<value_node value="wpn_fps_ass_ak_stamp_762_fsl_akm"/>
@@ -78,8 +80,8 @@
 				<value_node value="wpn_fps_ass_ak_stamp_762_hm_akm"/>
 				<value_node value="wpn_fps_ass_ak_stamp_762_lhg_akm"/>
 				<value_node value="wpn_fps_ass_ak_stamp_762_uhg_akm"/>
-				<!-- <value_node value="wpn_fps_ass_ak_stamp_762_mr_akm"/> -->
-				<!-- <value_node value="wpn_fps_ass_ak_stamp_762_md_akm"/> -->
+				<value_node value="wpn_fps_ass_ak_stamp_762_mr_akm"/>
+				<value_node value="wpn_fps_ass_ak_stamp_762_md_akm"/>
 				<value_node value="wpn_fps_ass_ak_stamp_762_pg_akm"/>
 				<value_node value="wpn_fps_ass_ak_stamp_762_fs_akm"/>
 				<value_node value="wpn_fps_ass_ak_stamp_762_rs_akm"/>
@@ -92,6 +94,8 @@
 				<value_node value="wpn_fps_ass_ak_stamp_762_trg_akm"/>
 				<value_node value="wpn_fps_ass_ak_stamp_762_ftru_akm"/>
 				<value_node value="wpn_fps_ass_ak_stamp_762_rtru_akm"/>
+				
+				<value_node value="wpn_fps_ass_ak_stamp_762_m_steel_30"/>
 				
 			</uses_parts>
 			
