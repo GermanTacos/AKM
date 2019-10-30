@@ -1,0 +1,9 @@
+{
+
+	"menu_l_global_value_ak_stamp_762" : "This is an AK Pack 2 item!",
+	
+	"bm_w_ak_stamp_762" : "AKM",
+	
+	"bm_wp_end" : "End"
+	
+}

@@ -1,0 +1,107 @@
+<table>
+
+	<Weapon unlock_level="0">
+		<weapon id="ak_stamp_762" based_on="flint" damage_near="25000" damage_far="40000" CLIP_AMMO_MAX="30" NR_CLIPS_MAX="4" can_shoot_through_shield="false" can_shoot_through_enemy="false" can_shoot_through_wall="false" tactical_reload="1" texture_bundle_folder="mods" global_value="ak_stamp_762">
+			<stats damage="98" spread="16" spread_moving="15" recoil="13" concealment="15" suppression="8"/>
+			<fire_mode_data fire_rate="0.1"/>
+			<AMMO_PICKUP>
+					<value_node value="1.5"/>
+					<value_node value="4.0"/>
+			</AMMO_PICKUP>
+			<timers reload_not_empty="2.3" reload_empty="3.4" unequip="0.5" equip="0.7"/>
+			<sounds fire="ak47_fire_single" fire_single="ak47_fire_single" fire_auto="ak47_fire_single" use_fix="true"> 
+				<reload wp_flint_mag_out="wp_heffy_762_mag_out" wp_flint_mag_in="wp_heffy_762_mag_in" wp_flint_cock_pull="wp_heffy_762_cock_pull" wp_flint_cock_release="wp_heffy_762_cock_release"/>
+			</sounds>
+			<animations reload_name_id="flint" equip_id="equip_flint" recoil_steelsight="true"/>
+		</weapon>
+
+		<factory id="wpn_fps_ass_ak_stamp_762" unit="units/mods/weapons/wpn_fps_ass_ak_stamp_762/wpn_fps_ass_ak_stamp_762" >
+			
+			<animations fire="recoil" reload="reload" reload_not_empty="reload_not_empty" fire_steelsight="recoil"/>
+			
+			<optional_types>
+				<value_node value="barrel"/>
+				<value_node value="barrel_ext"/>
+				<value_node value="gadget"/>
+				<value_node value="receiver"/>
+				<value_node value="foregrip_lower"/>
+				<value_node value="foregrip_upper"/>
+			</optional_types>
+			
+			<adds/>
+			<override/>	
+			
+			<default_blueprint>
+			
+				<value_node value="wpn_fps_ass_ak_stamp_762_ba_akm"/>
+				<!-- <value_node value="wpn_fps_ass_ak_stamp_762_bo_akm"/> -->
+				<value_node value="wpn_fps_ass_ak_stamp_762_clr_akm"/>
+				<value_node value="wpn_fps_ass_ak_stamp_762_dc_akm"/>
+				<value_node value="wpn_fps_ass_ak_stamp_762_fsl_akm"/>
+				<value_node value="wpn_fps_ass_ak_stamp_762_gb_akm"/>
+				<value_node value="wpn_fps_ass_ak_stamp_762_gt_akm"/>
+				<value_node value="wpn_fps_ass_ak_stamp_762_lfhgr_akm"/>
+				<value_node value="wpn_fps_ass_ak_stamp_762_ufhgr_akm"/>
+				<value_node value="wpn_fps_ass_ak_stamp_762_urhgr_akm"/>
+				<value_node value="wpn_fps_ass_ak_stamp_762_hm_akm"/>
+				<value_node value="wpn_fps_ass_ak_stamp_762_lhg_akm"/>
+				<value_node value="wpn_fps_ass_ak_stamp_762_uhg_akm"/>
+				<!-- <value_node value="wpn_fps_ass_ak_stamp_762_mr_akm"/> -->
+				<!-- <value_node value="wpn_fps_ass_ak_stamp_762_md_akm"/> -->
+				<value_node value="wpn_fps_ass_ak_stamp_762_pg_akm"/>
+				<value_node value="wpn_fps_ass_ak_stamp_762_fs_akm"/>
+				<value_node value="wpn_fps_ass_ak_stamp_762_rs_akm"/>
+				<value_node value="wpn_fps_ass_ak_stamp_762_fsb_akm"/>
+				<value_node value="wpn_fps_ass_ak_stamp_762_rsb_akm"/>
+				<value_node value="wpn_fps_ass_ak_stamp_762_rcs_akm"/>
+				<value_node value="wpn_fps_ass_ak_stamp_762_re_akm"/>
+				<value_node value="wpn_fps_ass_ak_stamp_762_st_akm"/>
+				<value_node value="wpn_fps_ass_ak_stamp_762_tr_akm"/>
+				<value_node value="wpn_fps_ass_ak_stamp_762_trg_akm"/>
+				<value_node value="wpn_fps_ass_ak_stamp_762_ftru_akm"/>
+				<value_node value="wpn_fps_ass_ak_stamp_762_rtru_akm"/>
+				
+			</default_blueprint>
+
+			<uses_parts>
+			
+				<value_node value="wpn_fps_ass_ak_stamp_762_ba_akm"/>
+				<!-- <value_node value="wpn_fps_ass_ak_stamp_762_bo_akm"/> -->
+				<value_node value="wpn_fps_ass_ak_stamp_762_clr_akm"/>
+				<value_node value="wpn_fps_ass_ak_stamp_762_dc_akm"/>
+				<value_node value="wpn_fps_ass_ak_stamp_762_fsl_akm"/>
+				<value_node value="wpn_fps_ass_ak_stamp_762_gb_akm"/>
+				<value_node value="wpn_fps_ass_ak_stamp_762_gt_akm"/>
+				<value_node value="wpn_fps_ass_ak_stamp_762_lfhgr_akm"/>
+				<value_node value="wpn_fps_ass_ak_stamp_762_ufhgr_akm"/>
+				<value_node value="wpn_fps_ass_ak_stamp_762_urhgr_akm"/>
+				<value_node value="wpn_fps_ass_ak_stamp_762_hm_akm"/>
+				<value_node value="wpn_fps_ass_ak_stamp_762_lhg_akm"/>
+				<value_node value="wpn_fps_ass_ak_stamp_762_uhg_akm"/>
+				<!-- <value_node value="wpn_fps_ass_ak_stamp_762_mr_akm"/> -->
+				<!-- <value_node value="wpn_fps_ass_ak_stamp_762_md_akm"/> -->
+				<value_node value="wpn_fps_ass_ak_stamp_762_pg_akm"/>
+				<value_node value="wpn_fps_ass_ak_stamp_762_fs_akm"/>
+				<value_node value="wpn_fps_ass_ak_stamp_762_rs_akm"/>
+				<value_node value="wpn_fps_ass_ak_stamp_762_fsb_akm"/>
+				<value_node value="wpn_fps_ass_ak_stamp_762_rsb_akm"/>
+				<value_node value="wpn_fps_ass_ak_stamp_762_rcs_akm"/>
+				<value_node value="wpn_fps_ass_ak_stamp_762_re_akm"/>
+				<value_node value="wpn_fps_ass_ak_stamp_762_st_akm"/>
+				<value_node value="wpn_fps_ass_ak_stamp_762_tr_akm"/>
+				<value_node value="wpn_fps_ass_ak_stamp_762_trg_akm"/>
+				<value_node value="wpn_fps_ass_ak_stamp_762_ftru_akm"/>
+				<value_node value="wpn_fps_ass_ak_stamp_762_rtru_akm"/>
+				
+			</uses_parts>
+			
+		</factory>
+		<stance>
+			<steelsight>
+				<shoulders rotation="-0.000436332 -1.90386e-007 -0.000436332 -1" translation="-10.247 0.696 3.77"/>
+			</steelsight>
+		</stance>
+		
+	</Weapon>
+
+</table>

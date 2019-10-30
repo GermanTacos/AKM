@@ -1,0 +1,44 @@
+<AddFiles directory="assets">
+
+	<!-- WEAPON PARTS -->
+	
+	<unit_npc	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_762/wpn_fps_ass_ak_stamp_762"/>
+	
+	<!-- AKM PARTS -->
+	
+	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akm_pts/akm_main_std"/>
+	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akm_pts/akm_handguard_std"/>
+	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akm_pts/akm_stock_std"/>
+	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akm_pts/akm_pistol_grip_std"/>
+	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akm_pts/akm_dust_cover_std"/>
+	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akm_pts/akm_rear_sight_std"/>
+	
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akm_pts/wpn_fps_ass_ak_stamp_762_ba_akm"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akm_pts/wpn_fps_ass_ak_stamp_762_bo_akm"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akm_pts/wpn_fps_ass_ak_stamp_762_clr_akm"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akm_pts/wpn_fps_ass_ak_stamp_762_dc_akm"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akm_pts/wpn_fps_ass_ak_stamp_762_fsl_akm"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akm_pts/wpn_fps_ass_ak_stamp_762_gb_akm"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akm_pts/wpn_fps_ass_ak_stamp_762_gt_akm"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akm_pts/wpn_fps_ass_ak_stamp_762_lfhgr_akm"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akm_pts/wpn_fps_ass_ak_stamp_762_ufhgr_akm"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akm_pts/wpn_fps_ass_ak_stamp_762_urhgr_akm"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akm_pts/wpn_fps_ass_ak_stamp_762_hm_akm"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akm_pts/wpn_fps_ass_ak_stamp_762_lhg_akm"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akm_pts/wpn_fps_ass_ak_stamp_762_uhg_akm"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akm_pts/wpn_fps_ass_ak_stamp_762_mr_akm"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akm_pts/wpn_fps_ass_ak_stamp_762_md_akm"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akm_pts/wpn_fps_ass_ak_stamp_762_pg_akm"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akm_pts/wpn_fps_ass_ak_stamp_762_fs_akm"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akm_pts/wpn_fps_ass_ak_stamp_762_rs_akm"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akm_pts/wpn_fps_ass_ak_stamp_762_fsb_akm"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akm_pts/wpn_fps_ass_ak_stamp_762_rsb_akm"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akm_pts/wpn_fps_ass_ak_stamp_762_rcs_akm"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akm_pts/wpn_fps_ass_ak_stamp_762_re_akm"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akm_pts/wpn_fps_ass_ak_stamp_762_st_akm"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akm_pts/wpn_fps_ass_ak_stamp_762_tr_akm"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akm_pts/wpn_fps_ass_ak_stamp_762_trg_akm"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akm_pts/wpn_fps_ass_ak_stamp_762_ftru_akm"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akm_pts/wpn_fps_ass_ak_stamp_762_rtru_akm"/>
+
+</AddFiles>
