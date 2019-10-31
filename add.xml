@@ -4,6 +4,10 @@
 	
 	<unit_npc	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_762/wpn_fps_ass_ak_stamp_762"/>
 	
+	<!-- DUMMY PARTS -->
+	
+	<unit_obj    path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_dummy_pts/wpn_fps_ass_ak_stamp_762_ba_dummy"/>
+	
 	<!-- AKM PARTS -->
 	
 	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akm_pts/akm_main_std"/>

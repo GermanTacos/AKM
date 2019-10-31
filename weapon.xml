@@ -30,6 +30,8 @@
 			
 			<default_blueprint>
 			
+				<value_node value="wpn_fps_ass_ak_stamp_762_ba_dummy"/>
+			
 				<value_node value="wpn_fps_ass_ak_stamp_762_ba_akm"/>
 				<value_node value="wpn_fps_ass_ak_stamp_762_bo_akm"/>
 				<value_node value="wpn_fps_ass_ak_stamp_762_clr_akm"/>
@@ -64,6 +66,8 @@
 
 			<uses_parts>
 			
+				<value_node value="wpn_fps_ass_ak_stamp_762_ba_dummy"/>
+				
 				<value_node value="wpn_fps_ass_ak_stamp_762_ba_akm"/>
 				<value_node value="wpn_fps_ass_ak_stamp_762_bo_akm"/>
 				<value_node value="wpn_fps_ass_ak_stamp_762_clr_akm"/>
