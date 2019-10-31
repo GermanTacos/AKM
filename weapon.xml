@@ -98,6 +98,9 @@
 				
 				<value_node value="wpn_fps_ass_ak_stamp_762_m_steel_30"/>
 				
+				<value_node value="wpn_fps_ass_ak_stamp_762_re_akms"/>
+				<value_node value="wpn_fps_ass_ak_stamp_762_st_f_akms"/>
+				
 				<value_node value="wpn_fps_upg_ns_ass_smg_large"/>
 				<value_node value="wpn_fps_upg_ns_ass_smg_medium"/>
 				<value_node value="wpn_fps_upg_ns_ass_smg_small"/>

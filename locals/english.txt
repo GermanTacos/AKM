@@ -51,6 +51,9 @@
 	"bm_menu_trigger_guard"        					: "Trigger Guard",
 	"bm_menu_trigger_guard_plural"    				: "Trigger Guards",
 	
+	"bm_wp_wpn_fps_ass_ak_stamp_762_re_akms"   : "AKMS Receiver",
+	"bm_wp_wpn_fps_ass_ak_stamp_762_st_f_akms" : "AKMS Stock (Folded)",
+	
 	"bm_wp_end" : "End"
 	
 }

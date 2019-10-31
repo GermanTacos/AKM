@@ -47,6 +47,16 @@
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akm_pts/wpn_fps_ass_ak_stamp_762_ftru_akm"/>
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akm_pts/wpn_fps_ass_ak_stamp_762_rtru_akm"/>
 	
+	<!-- AKMS PARTS -->
+	
+	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akms_pts/akms_main_std"/>
+	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akms_pts/akms_stock_std"/>
+	
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akms_pts/wpn_fps_ass_ak_stamp_762_re_akms"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akms_pts/wpn_fps_ass_ak_stamp_762_rtru_akms"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akms_pts/wpn_fps_ass_ak_stamp_762_st_f_akms"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akms_pts/wpn_fps_ass_ak_stamp_762_st_uf_akms"/>
+	
 	<!-- MAG PARTS -->
 	
 	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_mag_pts/mag_steel_30_std"/>
