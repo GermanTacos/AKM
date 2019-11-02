@@ -54,6 +54,24 @@
 	"bm_wp_wpn_fps_ass_ak_stamp_762_re_akms"   : "AKMS Receiver",
 	"bm_wp_wpn_fps_ass_ak_stamp_762_st_f_akms" : "AKMS Stock (Folded)",
 	
+	"bm_wp_wpn_fps_ass_ak_stamp_762_re_wasr"  : "WASR-10 Receiver",
+	"bm_wp_wpn_fps_ass_ak_stamp_762_lhg_wasr" : "PM md.63 Lower Handguard",
+	"bm_wp_wpn_fps_ass_ak_stamp_762_uhg_wasr" : "PM md.63 Upper Handguard",
+	"bm_wp_wpn_fps_ass_ak_stamp_762_st_wasr"  : "PM md.63 Stock",
+	
+	"bm_wp_wpn_fps_ass_ak_stamp_762_m_bake_30"  : "30 Round Bakelite Magazine",
+	"bm_wp_wpn_fps_ass_ak_stamp_762_m_beer_30"  : "30 Round Aluminum Magazine",
+	"bm_wp_wpn_fps_ass_ak_stamp_762_m_ak103_30" : "30 Round AK-103 Magazine",
+	"bm_wp_wpn_fps_ass_ak_stamp_762_m_pmag_30"  : "30 Round Magpul PMAG",
+	"bm_wp_wpn_fps_ass_ak_stamp_762_m_palm_30"  : "30 Round US Palm Magazine",
+	
+	"bm_wp_wpn_fps_ass_ak_stamp_762_md_no"  : "Remove Muzzle Device",
+	"bm_wp_wpn_fps_ass_ak_stamp_762_clr_no" : "Remove Cleaning Rod",
+	"bm_wp_wpn_fps_ass_ak_stamp_762_dc_no"  : "Remove Dust Cover",
+	"bm_wp_wpn_fps_ass_ak_stamp_762_lhg_no" : "Remove Lower Handguard",
+	"bm_wp_wpn_fps_ass_ak_stamp_762_uhg_no" : "Remove Upper Handguard",
+	"bm_wp_wpn_fps_ass_ak_stamp_762_st_no"  : "Remove Stock",
+	
 	"bm_wp_end" : "End"
 	
 }

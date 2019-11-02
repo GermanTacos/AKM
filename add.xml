@@ -60,7 +60,17 @@
 	<!-- MAG PARTS -->
 	
 	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_mag_pts/mag_steel_30_std"/>
+	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_mag_pts/mag_bake_30_std"/>
+	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_mag_pts/mag_beer_30_std"/>
+	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_mag_pts/mag_ak103_30_std"/>
+	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_mag_pts/mag_pmag_30_std"/>
+	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_mag_pts/mag_palm_30_std"/>
 	
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_mag_pts/wpn_fps_ass_ak_stamp_762_m_steel_30"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_mag_pts/wpn_fps_ass_ak_stamp_762_m_bake_30"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_mag_pts/wpn_fps_ass_ak_stamp_762_m_beer_30"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_mag_pts/wpn_fps_ass_ak_stamp_762_m_ak103_30"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_mag_pts/wpn_fps_ass_ak_stamp_762_m_pmag_30"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_mag_pts/wpn_fps_ass_ak_stamp_762_m_palm_30"/>
 
 </AddFiles>
