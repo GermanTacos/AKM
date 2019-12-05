@@ -6,7 +6,7 @@
 	
 	<!-- AKM -->
 	
-	<WeaponMod id="wpn_fps_ass_ak_stamp_762_ba_akm"    based_on="wpn_fps_ass_flint_body_upperreceiver" type="barrel"						 unit="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akm_pts/wpn_fps_ass_ak_stamp_762_ba_akm"    	 texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	<WeaponMod id="wpn_fps_ass_ak_stamp_762_ba_akm"    based_on="wpn_fps_ass_flint_body_upperreceiver" type="barrel2"						 unit="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akm_pts/wpn_fps_ass_ak_stamp_762_ba_akm"    	 texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
 	
 	<WeaponMod id="wpn_fps_ass_ak_stamp_762_clr_akm"   based_on="wpn_fps_ass_flint_body_upperreceiver" type="cleaning_rod"					 unit="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akm_pts/wpn_fps_ass_ak_stamp_762_clr_akm"   	 texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
 	
@@ -80,6 +80,100 @@
 		</requires>
 		<pcs/>
 	</WeaponMod>
+	
+	<!-- AK-103 -->
+	
+	<WeaponMod id="wpn_fps_ass_ak_stamp_762_ba_ak103"    based_on="wpn_fps_ass_flint_body_upperreceiver" type="barrel2"						 unit="units/mods/weapons/wpn_fps_ass_ak_stamp_762_ak103_pts/wpn_fps_ass_ak_stamp_762_ba_ak103"    	 texture_bundle_folder="mods" drop="false" is_a_unlockable="true">
+		<pcs/>
+	</WeaponMod>
+	
+	<WeaponMod id="wpn_fps_ass_ak_stamp_762_clr_ak103"   based_on="wpn_fps_ass_flint_body_upperreceiver" type="cleaning_rod"					 unit="units/mods/weapons/wpn_fps_ass_ak_stamp_762_ak103_pts/wpn_fps_ass_ak_stamp_762_clr_ak103"   	 texture_bundle_folder="mods" drop="false" is_a_unlockable="true">
+		<pcs/>
+	</WeaponMod>
+	
+	<WeaponMod id="wpn_fps_ass_ak_stamp_762_dc_ak103"    based_on="wpn_fps_ass_flint_body_upperreceiver" type="dust_cover"					 unit="units/mods/weapons/wpn_fps_ass_ak_stamp_762_ak103_pts/wpn_fps_ass_ak_stamp_762_dc_ak103"      texture_bundle_folder="mods" drop="false" is_a_unlockable="true">
+		<pcs/>
+	</WeaponMod>
+	
+	<WeaponMod id="wpn_fps_ass_ak_stamp_762_fsb_ak103"   based_on="wpn_fps_ass_flint_body_upperreceiver" type="sight_block_front"				 unit="units/mods/weapons/wpn_fps_ass_ak_stamp_762_ak103_pts/wpn_fps_ass_ak_stamp_762_fsb_ak103"  	 texture_bundle_folder="mods" drop="false" is_a_unlockable="true">
+		<override>
+			<wpn_fps_ass_ak_stamp_762_md_akm unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+			<wpn_fps_ass_ak_stamp_762_fs_akm unit="units/mods/weapons/wpn_fps_ass_ak_stamp_762_ak103_pts/wpn_fps_ass_ak_stamp_762_fs_ak103"/>
+		</override>
+		<pcs/>
+	</WeaponMod>
+	
+	<WeaponMod id="wpn_fps_ass_ak_stamp_762_gb_ak103"    based_on="wpn_fps_ass_flint_body_upperreceiver" type="gas_block"						 unit="units/mods/weapons/wpn_fps_ass_ak_stamp_762_ak103_pts/wpn_fps_ass_ak_stamp_762_gb_ak103"   	 texture_bundle_folder="mods" drop="false" is_a_unlockable="true">
+		<pcs/>
+	</WeaponMod>
+	
+	<!-- <WeaponMod id="wpn_fps_ass_ak_stamp_762_gt_ak103"    based_on="wpn_fps_ass_flint_body_upperreceiver" type="gas_tube"						 unit="units/mods/weapons/wpn_fps_ass_ak_stamp_762_ak103_pts/wpn_fps_ass_ak_stamp_762_gt_ak103"   	 texture_bundle_folder="mods" drop="false" is_a_unlockable="true"> -->
+		<!-- <pcs/> -->
+	<!-- </WeaponMod> -->
+	
+	<WeaponMod id="wpn_fps_ass_ak_stamp_762_lhg_ak103"   based_on="wpn_fps_ass_flint_body_upperreceiver" type="handguard_lower" 				 unit="units/mods/weapons/wpn_fps_ass_ak_stamp_762_ak103_pts/wpn_fps_ass_ak_stamp_762_lhg_ak103"  	 texture_bundle_folder="mods" drop="false" is_a_unlockable="true">
+		<override>
+			<wpn_fps_ass_ak_stamp_762_lfhgr_akm unit="units/mods/weapons/wpn_fps_ass_ak_stamp_762_ak103_pts/wpn_fps_ass_ak_stamp_762_lfhgr_ak103"/>
+		</override>
+		<pcs/>
+	</WeaponMod>
+	
+	<WeaponMod id="wpn_fps_ass_ak_stamp_762_pg_ak103"    based_on="wpn_fps_ass_flint_body_upperreceiver" type="pistol_grip" 					 unit="units/mods/weapons/wpn_fps_ass_ak_stamp_762_ak103_pts/wpn_fps_ass_ak_stamp_762_pg_ak103"   	 texture_bundle_folder="mods" drop="false" is_a_unlockable="true">
+		<pcs/>
+	</WeaponMod>
+	
+	<WeaponMod id="wpn_fps_ass_ak_stamp_762_pgr_ak103"   based_on="wpn_fps_ass_flint_body_upperreceiver" type="pistol_grip_retainer" 			 unit="units/mods/weapons/wpn_fps_ass_ak_stamp_762_ak103_pts/wpn_fps_ass_ak_stamp_762_pgr_ak103"   	 texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	
+	<WeaponMod id="wpn_fps_ass_ak_stamp_762_str_ak103"   based_on="wpn_fps_ass_flint_body_upperreceiver" type="stock_release" 			 		unit="units/mods/weapons/wpn_fps_ass_ak_stamp_762_ak103_pts/wpn_fps_ass_ak_stamp_762_str_ak103"   	 texture_bundle_folder="mods" drop="false" is_a_unlockable="false"/>
+	
+	<WeaponMod id="wpn_fps_ass_ak_stamp_762_re_ak103"    based_on="wpn_fps_ass_flint_body_upperreceiver" type="receiver" 						 unit="units/mods/weapons/wpn_fps_ass_ak_stamp_762_ak103_pts/wpn_fps_ass_ak_stamp_762_re_ak103"   	 texture_bundle_folder="mods" drop="false" is_a_unlockable="true">
+		<override>
+			<wpn_fps_ass_ak_stamp_762_ftru_akm unit="units/mods/weapons/wpn_fps_ass_ak_stamp_762_ak103_pts/wpn_fps_ass_ak_stamp_762_ftru_ak103"/>
+			<wpn_fps_ass_ak_stamp_762_rtru_akm unit="units/mods/weapons/wpn_fps_ass_ak_stamp_762_ak103_pts/wpn_fps_ass_ak_stamp_762_rtru_ak103"/>
+			<wpn_fps_ass_ak_stamp_762_st_akm   unit="units/mods/weapons/wpn_fps_ass_ak_stamp_762_ak103_pts/wpn_fps_ass_ak_stamp_762_st_uf_ak103"/>
+			<wpn_fps_ass_ak_stamp_762_rcs_akm  unit="units/mods/weapons/wpn_fps_ass_ak_stamp_762_ak103_pts/wpn_fps_ass_ak_stamp_762_rcs_ak103"/>
+			<wpn_fps_ass_ak_stamp_762_mr_akm   unit="units/mods/weapons/wpn_fps_ass_ak_stamp_762_ak103_pts/wpn_fps_ass_ak_stamp_762_mr_ak103"/>
+			<wpn_fps_ass_ak_stamp_762_hm_akm   unit="units/mods/weapons/wpn_fps_ass_ak_stamp_762_ak103_pts/wpn_fps_ass_ak_stamp_762_hm_ak103"/>
+			<wpn_fps_ass_ak_stamp_762_rsb_akm  unit="units/mods/weapons/wpn_fps_ass_ak_stamp_762_ak103_pts/wpn_fps_ass_ak_stamp_762_rsb_ak103"/>
+			<wpn_fps_ass_ak_stamp_762_trg_akm  unit="units/mods/weapons/wpn_fps_ass_ak_stamp_762_ak103_pts/wpn_fps_ass_ak_stamp_762_trg_ak103"/>
+			<wpn_fps_ass_ak_stamp_762_fsl_akm  unit="units/mods/weapons/wpn_fps_ass_ak_stamp_762_ak103_pts/wpn_fps_ass_ak_stamp_762_fsl_ak103"/>
+		</override>
+		<adds>
+			<value_node value="wpn_fps_ass_ak_stamp_762_pgr_ak103"/>
+			<value_node value="wpn_fps_ass_ak_stamp_762_str_ak103"/>
+		</adds>
+		<pcs/>
+	</WeaponMod>
+	
+	<WeaponMod id="wpn_fps_ass_ak_stamp_762_st_f_ak103" based_on="wpn_fps_ass_flint_body_upperreceiver" type="stock" 						 unit="units/mods/weapons/wpn_fps_ass_ak_stamp_762_ak103_pts/wpn_fps_ass_ak_stamp_762_st_f_ak103"  texture_bundle_folder="mods" drop="false" is_a_unlockable="true">
+		<stats concealment="3" damage="0" spread="-1" recoil="-3"/>
+		<requires>
+			<value_node value="wpn_fps_ass_ak_stamp_762_re_ak103"/>
+		</requires>
+		<pcs/>
+	</WeaponMod>
+	
+	<WeaponMod id="wpn_fps_ass_ak_stamp_762_tr_ak103"    based_on="wpn_fps_ass_flint_body_upperreceiver" type="trigger" 						 unit="units/mods/weapons/wpn_fps_ass_ak_stamp_762_ak103_pts/wpn_fps_ass_ak_stamp_762_tr_ak103"   	 texture_bundle_folder="mods" drop="false" is_a_unlockable="true">
+		<pcs/>
+	</WeaponMod>
+	
+	<WeaponMod id="wpn_fps_ass_ak_stamp_762_uhg_ak103"   based_on="wpn_fps_ass_flint_body_upperreceiver" type="handguard_upper"				 unit="units/mods/weapons/wpn_fps_ass_ak_stamp_762_ak103_pts/wpn_fps_ass_ak_stamp_762_uhg_ak103"  	 texture_bundle_folder="mods" drop="false" is_a_unlockable="true">
+		<override>
+			<wpn_fps_ass_ak_stamp_762_ufhgr_akm unit="units/mods/weapons/wpn_fps_ass_ak_stamp_762_ak103_pts/wpn_fps_ass_ak_stamp_762_ufhgr_ak103"/>
+			<wpn_fps_ass_ak_stamp_762_urhgr_akm unit="units/mods/weapons/wpn_fps_ass_ak_stamp_762_ak103_pts/wpn_fps_ass_ak_stamp_762_urhgr_ak103"/>
+		</override>
+		<pcs/>
+	</WeaponMod>
+	
+	<WeaponMod id="wpn_fps_ass_ak_stamp_762_bo_ak103"    based_on="wpn_fps_ass_flint_dh_standard"		   type="bolt"							 unit="units/mods/weapons/wpn_fps_ass_ak_stamp_762_ak103_pts/wpn_fps_ass_ak_stamp_762_bo_ak103"	  	 texture_bundle_folder="mods" drop="false" is_a_unlockable="true">
+		<pcs/>
+	</WeaponMod>
+	
+	<WeaponMod id="wpn_fps_ass_ak_stamp_762_md_ak103"    based_on="wpn_fps_upg_ass_ns_battle"			   type="barrel_ext"					 unit="units/mods/weapons/wpn_fps_ass_ak_stamp_762_ak103_pts/wpn_fps_ass_ak_stamp_762_md_ak103"	  	 texture_bundle_folder="mods" drop="false" is_a_unlockable="true">
+		<stats concealment="0" damage="0" spread="0" recoil="0"/>
+		<pcs/>
+	</WeaponMod>
+	
 	
 	<!-- MAGAZINES -->
 	
