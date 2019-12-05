@@ -70,6 +70,11 @@
 	"bm_wp_wpn_fps_ass_ak_stamp_762_clr_ak103"  : "AK-103 Cleaning Rod",
 	"bm_wp_wpn_fps_ass_ak_stamp_762_md_ak103"   : "AK-103 Flash Hider",
 	
+	"bm_wp_wpn_fps_ass_ak_stamp_762_re_ak104"   : "AK-104 Receiver",
+	"bm_wp_wpn_fps_ass_ak_stamp_762_ba_ak104"   : "AK-104 Barrel",
+	"bm_wp_wpn_fps_ass_ak_stamp_762_gb_ak104"   : "AK-104 Combo Gas Block",
+	"bm_wp_wpn_fps_ass_ak_stamp_762_md_ak104"   : "AK-104 Flash Hider",
+	
 	"bm_wp_wpn_fps_ass_ak_stamp_762_re_wasr"  : "WASR-10 Receiver",
 	"bm_wp_wpn_fps_ass_ak_stamp_762_lhg_wasr" : "PM md.63 Lower Handguard",
 	"bm_wp_wpn_fps_ass_ak_stamp_762_uhg_wasr" : "PM md.63 Upper Handguard",
