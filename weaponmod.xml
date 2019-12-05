@@ -81,6 +81,10 @@
 		<pcs/>
 	</WeaponMod>
 	
+	<WeaponMod id="wpn_fps_ass_ak_stamp_762_pg_akm_wood"    based_on="wpn_fps_ass_flint_body_upperreceiver" type="pistol_grip" 					 unit="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akm_pts/wpn_fps_ass_ak_stamp_762_pg_akm_wood"   	 texture_bundle_folder="mods" drop="false" is_a_unlockable="true">
+		<pcs/>
+	</WeaponMod>
+	
 	<!-- AK-103 -->
 	
 	<WeaponMod id="wpn_fps_ass_ak_stamp_762_ba_ak103"    based_on="wpn_fps_ass_flint_body_upperreceiver" type="barrel2"						 unit="units/mods/weapons/wpn_fps_ass_ak_stamp_762_ak103_pts/wpn_fps_ass_ak_stamp_762_ba_ak103"    	 texture_bundle_folder="mods" drop="false" is_a_unlockable="true">
