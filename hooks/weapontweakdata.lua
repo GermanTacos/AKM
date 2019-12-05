@@ -1,6 +1,6 @@
 Hooks:PostHook( WeaponTweakData, "init", "AKMInit", function(self)
 
-if ( self.ak_stamp_762 ) then
+if self.SetupAttachmentPoint then
 	
 	self:SetupAttachmentPoint("ak_stamp_762", {
 		name = "a_ns", 
@@ -16,6 +16,12 @@ if ( self.ak_stamp_762 ) then
         rotation = Rotation( 0, 0, 0 ) 
 	})
 	
+	self:SetupAttachmentPoint("heffy_762", {
+		name = "a_o", 
+        base_a_obj = "a_o", 
+        position = Vector3( 0, -9, 0.5 ), 
+        rotation = Rotation( 0, 0, 0 ) 
+	})
 end
 
 end)
