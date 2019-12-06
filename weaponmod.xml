@@ -198,11 +198,12 @@
 	
 	<WeaponMod id="wpn_fps_ass_ak_stamp_762_gb_ak104"    based_on="wpn_fps_ass_flint_body_upperreceiver" type="gas_block"						 unit="units/mods/weapons/wpn_fps_ass_ak_stamp_762_ak104_pts/wpn_fps_ass_ak_stamp_762_gb_ak104"   	 texture_bundle_folder="mods" drop="false" is_a_unlockable="true">
 		<override>
+			<wpn_fps_ass_ak_stamp_762_clr_akm unit="units/mods/weapons/wpn_fps_ass_ak_stamp_762_ak104_pts/wpn_fps_ass_ak_stamp_762_clr_ak104"/>
 			<wpn_fps_ass_ak_stamp_762_fsb_akm unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
-			<wpn_fps_ass_ak_stamp_762_md_akm  unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 		</override>
 		<forbids>
 			<value_node value="wpn_fps_ass_ak_stamp_762_fsb_ak103"/>
+			<value_node value="wpn_fps_ass_ak_stamp_762_clr_ak103"/>
 		</forbids>
 		<pcs/>
 	</WeaponMod>
