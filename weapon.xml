@@ -1,7 +1,7 @@
 <table>
 
 	<Weapon unlock_level="0">
-		<weapon id="ak_stamp_762" based_on="flint" damage_near="25000" damage_far="40000" CLIP_AMMO_MAX="30" NR_CLIPS_MAX="4" can_shoot_through_shield="false" can_shoot_through_enemy="false" can_shoot_through_wall="false" tactical_reload="1" texture_bundle_folder="mods" global_value="ak_stamp_762">
+		<weapon id="ak_stamp_762" based_on="flint" damage_near="25000" damage_far="40000" CLIP_AMMO_MAX="30" NR_CLIPS_MAX="4" can_shoot_through_shield="false" can_shoot_through_enemy="false" can_shoot_through_wall="false" tactical_reload="1" texture_bundle_folder="mods" global_value="ak_pack_2">
 			<stats damage="98" spread="16" spread_moving="15" recoil="13" concealment="15" suppression="8"/>
 			<fire_mode_data fire_rate="0.1"/>
 			<AMMO_PICKUP>
@@ -101,7 +101,7 @@
 				<value_node value="wpn_fps_ass_ak_stamp_762_pg_akm_wood"/>
 				
 				<value_node value="wpn_fps_ass_ak_stamp_762_re_akms"/>
-				<value_node value="wpn_fps_ass_ak_stamp_762_st_f_akms"/>
+				<value_node value="wpn_fps_ass_ak_stamp_762_st_uf_akms"/>
 				
 				<value_node value="wpn_fps_ass_ak_stamp_762_ba_ak103"/>
 				<value_node value="wpn_fps_ass_ak_stamp_762_bo_ak103"/>
@@ -113,7 +113,7 @@
 				<value_node value="wpn_fps_ass_ak_stamp_762_uhg_ak103"/>
 				<value_node value="wpn_fps_ass_ak_stamp_762_pg_ak103"/>
 				<value_node value="wpn_fps_ass_ak_stamp_762_re_ak103"/>
-				<value_node value="wpn_fps_ass_ak_stamp_762_st_f_ak103"/>
+				<value_node value="wpn_fps_ass_ak_stamp_762_st_uf_ak103"/>
 				<value_node value="wpn_fps_ass_ak_stamp_762_tr_ak103"/>
 				<value_node value="wpn_fps_ass_ak_stamp_762_md_ak103"/>
 				
