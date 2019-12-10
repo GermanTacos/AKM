@@ -96,6 +96,9 @@
 	"bm_wp_wpn_fps_ass_ak_stamp_762_uhg_no" : "Remove Upper Handguard",
 	"bm_wp_wpn_fps_ass_ak_stamp_762_st_no"  : "Remove Stock",
 	
+	"bm_w_paint_pg_akm_akm"	     : "Standard AKM Grip",
+	"bm_w_paint_pg_akm_akm_desc" : "A run-of-the mill bakelite grip. Comes as standard on the AKM.",
+	
 	"bm_wp_end" : "End"
 	
 }

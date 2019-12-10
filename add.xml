@@ -135,5 +135,10 @@
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_mag_pts/wpn_fps_ass_ak_stamp_762_m_pmag_20"/>
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_mag_pts/wpn_fps_ass_ak_stamp_762_m_pmag_10"/>
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_mag_pts/wpn_fps_ass_ak_stamp_762_m_palm_30"/>
+	
+	<!-- COMPATIBILITY PARTS -->
+	
+	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/wpn_fps_ass_ak_all_pg_akm_akm"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/wpn_fps_ass_ak_all_pg_akm_akm_thq"/>
 
 </AddFiles>
