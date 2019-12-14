@@ -6,7 +6,7 @@
 	
 	<!-- DUMMY PARTS -->
 	
-	<unit_obj    path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_dummy_pts/wpn_fps_ass_ak_stamp_762_ba_dummy"/>
+	<unit_obj    path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_shared_pts/wpn_fps_ass_ak_stamp_762_ba_dummy"/>
 	
 	<!-- AKM PARTS -->
 	
@@ -140,5 +140,11 @@
 	
 	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/wpn_fps_ass_ak_all_pg_akm_akm"/>
 	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/wpn_fps_ass_ak_all_pg_akm_akm_thq"/>
+	
+	<!-- MOUNT PARTS -->
+	
+	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_shared_pts/tula_optic_mount_std"/>
+	
+	<unit_obj    path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_shared_pts/wpn_fps_ass_ak_stamp_762_om_tula"/>
 
 </AddFiles>
