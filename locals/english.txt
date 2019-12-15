@@ -78,9 +78,9 @@
 	"bm_wp_wpn_fps_ass_ak_stamp_762_md_ak104"   : "AK-104 Flash Hider",
 	
 	"bm_wp_wpn_fps_ass_ak_stamp_762_re_wasr"  : "WASR-10 Receiver",
-	"bm_wp_wpn_fps_ass_ak_stamp_762_lhg_wasr" : "PM md.63 Lower Handguard",
-	"bm_wp_wpn_fps_ass_ak_stamp_762_uhg_wasr" : "PM md.63 Upper Handguard",
-	"bm_wp_wpn_fps_ass_ak_stamp_762_st_wasr"  : "PM md.63 Stock",
+	"bm_wp_wpn_fps_ass_ak_stamp_762_lhg_wasr" : "Romanian 'Dong' Lower Handguard",
+	"bm_wp_wpn_fps_ass_ak_stamp_762_uhg_wasr" : "Romanian Upper Handguard",
+	"bm_wp_wpn_fps_ass_ak_stamp_762_st_wasr"  : "Romanian Wire Sidefolding Stock",
 	
 	"bm_wp_wpn_fps_ass_ak_stamp_762_m_steel_40" : "40 Round Steel RPK Magazine",
 	"bm_wp_wpn_fps_ass_ak_stamp_762_m_steel_10" : "10 Round Steel Magazine",
