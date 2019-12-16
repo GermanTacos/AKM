@@ -51,6 +51,10 @@
 	"bm_menu_trigger_guard"        					: "Trigger Guard",
 	"bm_menu_trigger_guard_plural"    				: "Trigger Guards",
 	
+	"bm_wp_wpn_fps_ass_ak_all_lhg_akm" : "AKM Lower Handguard",
+	"bm_wp_wpn_fps_ass_ak_all_uhg_akm" : "AKM Upper Handguard",
+	"bm_wp_wpn_fps_ass_ak_all_st_akm"  : "AKM Stock",
+	
 	"bm_wp_wpn_fps_ass_ak_stamp_762_pg_akm_wood" : "Wooden AKM Pistol Grip",
 	
 	"bm_wp_wpn_fps_ass_ak_stamp_762_re_akms"    : "AKMS Receiver",
