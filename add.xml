@@ -115,13 +115,13 @@
 	
 	<!-- WASR PARTS -->
 	
-	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_wasr_pts/wasr_main_std"/>
-	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_wasr_pts/wasr_handguard_std"/>
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_romy_pts/wasr_main_std"/>
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_romy_pts/wasr_handguard_std"/>
 	
-	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_wasr_pts/wpn_fps_ass_ak_stamp_762_re_wasr"/>
-	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_wasr_pts/wpn_fps_ass_ak_stamp_762_lhg_wasr"/>
-	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_wasr_pts/wpn_fps_ass_ak_stamp_762_uhg_wasr"/>
-	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_wasr_pts/wpn_fps_ass_ak_stamp_762_lhg_shark"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_romy_pts/wpn_fps_ass_ak_stamp_762_re_wasr"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_romy_pts/wpn_fps_ass_ak_stamp_762_lhg_wasr"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_romy_pts/wpn_fps_ass_ak_stamp_762_uhg_wasr"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_romy_pts/wpn_fps_ass_ak_stamp_762_lhg_shark"/>
 	
 	<!-- MAG PARTS -->
 	
