@@ -38,6 +38,20 @@ local vanilla_akmsight = {
 for id, o_id in pairs(vanilla_akmsight) do
 	self.wpn_fps_ass_ak_stamp_762.adds[o_id] = {"wpn_fps_ass_ak_stamp_762_om_tula"}
 end
+
+--=========================--
+--          STANCE         --
+--=========================--
+
+--- Vanilla sights ---
+for id, o_id in pairs(vanilla_akmsight) do
+	if self.parts[o_id].stance_mod.wpn_fps_ass_flint then
+		self.parts[o_id].stance_mod.wpn_fps_ass_ak_stamp_762 = deep_clone(self.parts[o_id].stance_mod.wpn_fps_ass_flint)
+	else
+		log("[AK_Pack] [ERROR] WHO THE FUCK MESSED WITH SIGHT STANCES THIS TIME!? " .. o_id)
+	end
+end
+
 --=========================--
 --      COMPATIBILITY      --
 --=========================--
