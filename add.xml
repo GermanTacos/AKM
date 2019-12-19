@@ -51,6 +51,18 @@
 	
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akm_pts/wpn_fps_ass_ak_stamp_762_pg_akm_wood"/>
 	
+	<!-- AK PARTS -->
+	
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_ak_pts/ak_muzzle_brake_std"/>
+
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_ak_pts/wpn_fps_ass_ak_stamp_762_md_ak"/>
+	
+	<!-- AKML PARTS -->
+	
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akml_pts/akml_muzzle_brake_std"/>
+
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akml_pts/wpn_fps_ass_ak_stamp_762_md_akml"/>
+	
 	<!-- AKMS PARTS -->
 	
 	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akms_pts/akms_main_std"/>

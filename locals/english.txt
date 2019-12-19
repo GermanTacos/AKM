@@ -57,6 +57,9 @@
 	
 	"bm_wp_wpn_fps_ass_ak_stamp_762_pg_akm_wood" : "Wooden AKM Pistol Grip",
 	
+	"bm_wp_wpn_fps_ass_ak_stamp_762_md_ak"   : "AK Muzzle Nut",
+	"bm_wp_wpn_fps_ass_ak_stamp_762_md_akml" : "AKML Muzzle Brake",
+	
 	"bm_wp_wpn_fps_ass_ak_stamp_762_re_akms"    : "AKMS Receiver",
 	"bm_wp_wpn_fps_ass_ak_stamp_762_st_uf_akms" : "AKMS Stock",
 	"bm_wp_wpn_fps_ass_ak_stamp_762_st_f_akms"  : "AKMS Stock (Folded)",
