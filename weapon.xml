@@ -49,7 +49,7 @@
 				<value_node value="wpn_fps_ass_ak_stamp_762_md_akm"/>
 				<value_node value="wpn_fps_ass_ak_stamp_762_pg_akm"/>
 				<value_node value="wpn_fps_ass_ak_stamp_762_fs_akm"/>
-				<value_node value="wpn_fps_ass_ak_stamp_762_rs_akm"/>
+				<value_node value="wpn_fps_ass_ak_stamp_762_ro_akm"/>
 				<value_node value="wpn_fps_ass_ak_stamp_762_fsb_akm"/>
 				<value_node value="wpn_fps_ass_ak_stamp_762_rsb_akm"/>
 				<value_node value="wpn_fps_ass_ak_stamp_762_rcs_akm"/>
@@ -85,7 +85,7 @@
 				<value_node value="wpn_fps_ass_ak_stamp_762_md_akm"/>
 				<value_node value="wpn_fps_ass_ak_stamp_762_pg_akm"/>
 				<value_node value="wpn_fps_ass_ak_stamp_762_fs_akm"/>
-				<value_node value="wpn_fps_ass_ak_stamp_762_rs_akm"/>
+				<value_node value="wpn_fps_ass_ak_stamp_762_ro_akm"/>
 				<value_node value="wpn_fps_ass_ak_stamp_762_fsb_akm"/>
 				<value_node value="wpn_fps_ass_ak_stamp_762_rsb_akm"/>
 				<value_node value="wpn_fps_ass_ak_stamp_762_rcs_akm"/>
@@ -101,6 +101,8 @@
 				<value_node value="wpn_fps_ass_ak_stamp_762_pg_akm_wood"/>
 				
 				<value_node value="wpn_fps_ass_ak_stamp_762_md_ak"/>
+				
+				<value_node value="wpn_fps_ass_ak_stamp_762_ro_akmb"/>
 				
 				<value_node value="wpn_fps_ass_ak_stamp_762_md_akml"/>
 				

@@ -1,5 +1,5 @@
 <unit type="wpn" slot="1">
-	<object file="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akm_pts/wpn_fps_ass_ak_stamp_762_rs_akm" />
+	<object file="units/mods/weapons/wpn_fps_ass_ak_stamp_762_akmb_pts/wpn_fps_ass_ak_stamp_762_ro_akmb" />
 	<extensions>
 		<extension name="unit_data" class="ScriptUnitData" />
 	</extensions>
