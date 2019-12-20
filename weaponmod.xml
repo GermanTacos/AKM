@@ -251,7 +251,7 @@
 			<wpn_fps_ass_ak_stamp_762_clr_akm unit="units/mods/weapons/wpn_fps_ass_ak_stamp_762_ak104_pts/wpn_fps_ass_ak_stamp_762_clr_ak104"/>
 			<wpn_fps_ass_ak_stamp_762_fsb_akm unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 			<wpn_fps_ass_ak_stamp_762_md_akm  unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
-			<wpn_fps_ass_ak_stamp_762_fo_akm	a_obj="a_fo_ak104"/>
+			<wpn_fps_ass_ak_stamp_762_fo_akm  a_obj="a_fo_ak104"/>
 		</override>
 		<forbids>
 			<value_node value="wpn_fps_ass_ak_stamp_762_fsb_ak103"/>
