@@ -106,6 +106,12 @@
 		<requires>
 			<value_node value="wpn_fps_ass_ak_stamp_762_re_akms"/>
 		</requires>
+		<forbids>
+			<value_node value="wpn_fps_ass_ak_stamp_762_lhg_wasr"/>
+			<value_node value="wpn_fps_ass_ak_stamp_762_lhg_shark"/>
+			<value_node value="wpn_fps_ass_ak_stamp_545_lhg_md86"/>
+			<value_node value="wpn_fps_ass_ak_stamp_545_lhg_shark"/>
+		</forbids>
 		<pcs/>
 	</WeaponMod>
 	
