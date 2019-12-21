@@ -175,6 +175,15 @@
 	
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_shared_pts/wpn_fps_ass_ak_stamp_762_om_tula"/>
 	
+	<!-- ICONS -->
+	
 	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/weapons/ak_stamp_762"/>
+	
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_762_m_steel_10"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_762_m_steel_40"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_762_m_beer_30"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_762_m_bake_30"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_762_m_bake_40"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_762_m_ak103_30"/>
 
 </AddFiles>
