@@ -105,6 +105,7 @@ end
 --=========================--
 --        	ADDS           --
 --=========================--
+self.parts.wpn_fps_ass_ak_stamp_762_dc_no.forbids = self.parts.wpn_fps_ass_ak_stamp_762_dc_no.forbids or {} -- STFU PAYDAY
 --- Gun ---
 for id, o_id in pairs(all_akmsight) do
 	self.wpn_fps_ass_ak_stamp_762.adds[o_id] = {"wpn_fps_ass_ak_stamp_762_om_tula"}
