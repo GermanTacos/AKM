@@ -15,7 +15,7 @@ Hooks:PostHook( WeaponFactoryTweakData, "init", "AKMInit", function(self)
 --          ARRAYS         --
 --=========================--
 
-local vanilla_akmsight = {
+local all_akmsight = {
 	"wpn_fps_upg_o_specter",
 	"wpn_fps_upg_o_aimpoint",
 	"wpn_fps_upg_o_aimpoint_2",
@@ -31,12 +31,88 @@ local vanilla_akmsight = {
 	"wpn_fps_upg_o_rx30",
 	"wpn_fps_upg_o_spot"
 }
+local vanilla_akmsight = deep_clone(all_akmsight)
+--- Barrel Extensions --
+local all_akmext = {
+	"wpn_fps_upg_ns_ass_smg_large",
+	"wpn_fps_upg_ns_ass_smg_medium",
+	"wpn_fps_upg_ns_ass_smg_small",
+	"wpn_fps_upg_ns_ass_smg_firepig",
+	"wpn_fps_upg_ns_ass_smg_stubby",
+	"wpn_fps_upg_ns_ass_smg_tank",
+	"wpn_fps_upg_ns_ass_pbs1",
+	"wpn_fps_upg_ass_ns_jprifles",
+	"wpn_fps_upg_ass_ns_linear",
+	"wpn_fps_upg_ass_ns_surefire",
+	"wpn_fps_upg_ass_ns_battle",
+	"wpn_fps_ass_ak_stamp_762_md_akm",
+	"wpn_fps_ass_ak_stamp_762_md_ak",
+	"wpn_fps_ass_ak_stamp_762_md_akml",
+	"wpn_fps_ass_ak_stamp_762_md_ak103",
+	"wpn_fps_ass_ak_stamp_762_md_ak104"
+}
+local all_akmfl = {
+	"wpn_fps_upg_fl_ass_smg_sho_peqbox",
+	"wpn_fps_upg_fl_ass_smg_sho_surefire",
+	"wpn_fps_upg_fl_ass_peq15",
+	"wpn_fps_upg_fl_ass_laser",
+	"wpn_fps_upg_fl_ass_utg",
+	"wpn_fps_addon_ris"
+}
+--- CAFCW aka better later then never also holy shit this actually works ---
+if attach_tables then
+	for _, md_id in pairs(attach_tables.Barrel_Extensions) do
+		if self.parts[md_id] then
+			table.insert(all_akmext, md_id)
+		end
+	end
+	for _, md_id in pairs(attach_tables.Suppressors) do
+		if self.parts[md_id] then
+			table.insert(all_akmext, md_id)
+		end
+	end
+	for _, fl_id in pairs(attach_tables.Gadgets) do
+		if self.parts[fl_id] then
+			table.insert(all_akmfl, fl_id)
+		end
+	end
+	for _, o_id in pairs(attach_tables.ACOG) do
+		if self.parts[o_id] then
+			table.insert(all_akmsight, o_id)
+		end
+	end
+	for _, o_id in pairs(attach_tables.Custom) do
+		if self.parts[o_id] then
+			table.insert(all_akmsight, o_id)
+		end
+	end
+	for _, o_id in pairs(attach_tables.Specter) do
+		if self.parts[o_id] then
+			table.insert(all_akmsight, o_id)
+		end
+	end
+	--[[
+	if attach_tables.Custom_AK then --safety (since that thing doesn't exist in older versions)
+		for _, o_id in pairs(attach_tables.Custom_AK) do
+			if self.parts[o_id] then
+				table.insert(self.parts.wpn_fps_upg_o_ak47_l_scopemount.forbids, o_id)
+			end
+		end
+	end
+	--]]
+end
+
 --=========================--
 --        	ADDS           --
 --=========================--
 --- Gun ---
-for id, o_id in pairs(vanilla_akmsight) do
+for id, o_id in pairs(all_akmsight) do
 	self.wpn_fps_ass_ak_stamp_762.adds[o_id] = {"wpn_fps_ass_ak_stamp_762_om_tula"}
+	table.insert(self.parts.wpn_fps_ass_ak_stamp_762_dc_no.forbids, o_id)
+end
+
+for id, md_id in pairs(all_akmext) do
+	self.parts.wpn_fps_ass_ak_stamp_762_ba_ak104.override[md_id] = {a_obj="a_ns_ak104"}
 end
 
 --=========================--
