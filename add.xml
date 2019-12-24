@@ -220,6 +220,10 @@
 	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_762_uhg_wasr"/>
 	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_762_lhg_shark"/>
 	
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_uhg_akm"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_lhg_akm"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_st_akm"/>
+	
 	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_762_clr_no"/>
 	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_762_dc_no"/>
 	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_stamp_762_lhg_no"/>

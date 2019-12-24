@@ -4,10 +4,9 @@
 	
 	<GlobalValue id="ak_pack_2" color="Color(1, 0.522, 0.106)"/>
 	
-<!--<AssetUpdates id="00000" version="1.0" provider="modworkshop"/>-->
+	<AssetUpdates id="26227" version="2.0-pre" provider="modworkshop"/>
 	
 	<XML path="add.xml"/>
-	<XML path="icon.xml"/>
 	<XML path="sound.xml"/>
 	<XML path="weapon.xml"/>
 	<XML path="weaponmod.xml"/>
