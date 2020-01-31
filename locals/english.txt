@@ -93,6 +93,7 @@
 	"bm_wp_wpn_fps_ass_ak_stamp_762_st_wasr"   : "Romanian Wire Sidefolding Stock",
 	"bm_wp_wpn_fps_ass_ak_stamp_762_lhg_shark" : "Romanian Custom 'Shark Fin' Lower Handguard",
 	
+	"bm_wp_wpn_fps_ass_ak_stamp_762_m_spine_30" : "30 Round Steel AKM Magazine",
 	"bm_wp_wpn_fps_ass_ak_stamp_762_m_steel_40" : "40 Round Steel RPK Magazine",
 	"bm_wp_wpn_fps_ass_ak_stamp_762_m_steel_10" : "10 Round Steel Magazine",
 	"bm_wp_wpn_fps_ass_ak_stamp_762_m_bake_30"  : "30 Round Bakelite Magazine",
