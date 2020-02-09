@@ -332,6 +332,12 @@
 		<pcs/>
 	</WeaponMod>
 	
+	<!-- AMD -->
+	
+	<WeaponMod id="wpn_fps_ass_ak_stamp_762_pg_akm63"   based_on="wpn_fps_ass_flint_body_upperreceiver" type="pistol_grip"				 	 unit="units/mods/weapons/wpn_fps_ass_ak_stamp_762_amd_pts/wpn_fps_ass_ak_stamp_762_pg_akm63"    	texture_bundle_folder="mods" drop="false" global_value="ak_pack_2" is_a_unlockable="true">
+		<pcs/>
+	</WeaponMod>
+	
 	<!-- MAGAZINES -->
 	
 	<WeaponMod id="wpn_fps_ass_ak_stamp_762_m_steel_30" based_on="wpn_fps_ass_flint_m_standard" type="magazine" unit="units/mods/weapons/wpn_fps_ass_ak_stamp_762_mag_pts/wpn_fps_ass_ak_stamp_762_m_steel_30" texture_bundle_folder="mods" drop="false" global_value="ak_pack_2" is_a_unlockable="false"/>

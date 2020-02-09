@@ -141,6 +141,12 @@
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_romy_pts/wpn_fps_ass_ak_stamp_762_uhg_wasr"/>
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_romy_pts/wpn_fps_ass_ak_stamp_762_lhg_shark"/>
 	
+	<!-- AMD PARTS -->
+	
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_amd_pts/akm63_pistol_grip_std"/>
+	
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_amd_pts/wpn_fps_ass_ak_stamp_762_pg_akm63"/>
+	
 	<!-- MAG PARTS -->
 	
 	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_stamp_762_mag_pts/mag_steel_30_std"/>
