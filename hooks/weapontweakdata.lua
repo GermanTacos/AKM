@@ -13,7 +13,7 @@ if self.new_m4.reload_timed_stance_mod then
 end
 
 if self.SetupAttachmentPoint then
-	
+
 	self:SetupAttachmentPoint("ak_stamp_762", {
 		name = "a_ns", 
         base_a_obj = "a_ns", 
@@ -34,6 +34,14 @@ if self.SetupAttachmentPoint then
         position = Vector3( 0, -6, -0.5 ), 
         rotation = Rotation( 0, 0, 0 ) 
 	})
+	
+	self:SetupAttachmentPoint("ak_stamp_762", {
+		name = "a_vg", 
+		base_a_obj = "a_ns", 
+		position = Vector3( 0, -22, -2.4 ), 
+		rotation = Rotation( 0, 0, 0 ) 
+	})
+	
 	
 	--Attachments
 	

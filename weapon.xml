@@ -193,6 +193,9 @@
 			<steelsight>
 				<shoulders rotation="-0.000872664 -3.80772e-007 -0.000436332 -1" translation="-10.247 0.696 4.8"/>
 			</steelsight>
+			<steelsight_vg>
+				<shoulders rotation="-0.0010472 -4.56926e-007 -0.000436332 -0.999999" translation="-10.669 8.696 3.87"/>
+			</steelsight_vg>
 		</stance>
 		
 	</Weapon>

@@ -67,7 +67,7 @@ local all_ar15stock = {
 	"wpn_fps_upg_m4_s_ubr",
 	"wpn_fps_snp_tti_s_vltor"
 }
---- CAFCW aka better later then never also holy shit this actually works ---
+--- CAFCW ---
 if attach_tables then
 	for _, md_id in pairs(attach_tables.Barrel_Extensions) do
 		if self.parts[md_id] then
